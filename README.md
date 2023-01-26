@@ -2,4 +2,4 @@
 
 # languages used: Reactjs, Nodejs, CSS, HTML.
 
-#Tools used: Firebase, VSCode, TMDB Key
+# Tools used: Firebase, VSCode, TMDB Key
